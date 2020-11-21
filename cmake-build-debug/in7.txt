@@ -1,0 +1,1 @@
+wc -l > out_demo_both2.txt < cmd.c
