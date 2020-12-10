@@ -1,8 +1,5 @@
 /**
 
-  Name: Tan Yongjie
-  ITSC Email address: ytanaq@connect.ust.hk
-
   TODO: Clearly explain how you implement process_cmd in point form. For example:
 
     Step 1: To define any function-scope variables that acts as buffer to store the segments of command lines,
